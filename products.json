@@ -1,0 +1,29 @@
+[
+  {
+    "id": "placeholder-1",
+    "name": "Voorbeeldproduct",
+    "description": "Dit is een voorbeeldkaart. Echte producten kunnen later hier worden toegevoegd.",
+    "image": null,
+    "priceLabel": "Prijs volgt",
+    "paypalUrl": null,
+    "placeholder": true
+  },
+  {
+    "id": "placeholder-2",
+    "name": "Voorbeeldproduct",
+    "description": "Dit is een voorbeeldkaart. Echte producten kunnen later hier worden toegevoegd.",
+    "image": null,
+    "priceLabel": "Prijs volgt",
+    "paypalUrl": null,
+    "placeholder": true
+  },
+  {
+    "id": "placeholder-3",
+    "name": "Voorbeeldproduct",
+    "description": "Dit is een voorbeeldkaart. Echte producten kunnen later hier worden toegevoegd.",
+    "image": null,
+    "priceLabel": "Prijs volgt",
+    "paypalUrl": null,
+    "placeholder": true
+  }
+]
